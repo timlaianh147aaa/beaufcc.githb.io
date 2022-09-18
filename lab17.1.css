@@ -1,0 +1,27 @@
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./img/hero.jpg);
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./img/laura-jones.jpg);
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./img/post-img.jpg);
+}
+
+.carousel {
+    height: 400px;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.carousel-item {
+    height: 100%;
+}
